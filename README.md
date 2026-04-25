@@ -67,6 +67,15 @@ xixi-voice-skill/
 ├─ README.md
 ├─ agents/
 │  └─ openai.yaml
+├─ living-system/
+│  ├─ README.md
+│  ├─ intake-template.md
+│  └─ update-checklist.md
+├─ corpus/
+│  ├─ README.md
+│  ├─ extracted-patterns.md
+│  ├─ sample-index.md
+│  └─ update-log.md
 └─ references/
    ├─ anti-patterns.md
    ├─ audience.md
@@ -153,6 +162,23 @@ This repository can still be improved by adding:
 - more real Xixi source sentences
 - more before/after rewrite pairs
 - platform-specific variants for short video, Xiaohongshu, and articles
+
+## Living System
+
+This repository is now structured as a living voice system, not a static prompt dump.
+
+That means future real copy can be fed back into the repo in a repeatable way:
+
+1. save strong real outputs into `corpus/`
+2. extract recurring voice patterns
+3. update sentence banks, case libraries, and rewrite packs
+4. log what changed and why
+
+See:
+
+- `living-system/README.md`
+- `living-system/intake-template.md`
+- `living-system/update-checklist.md`
 
 ## License
 
