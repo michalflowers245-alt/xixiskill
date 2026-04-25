@@ -31,6 +31,12 @@ Use this template whenever a new real piece deserves to be fed back into the rep
 - {ordinary person return}
 - {closing move}
 
+## Source Influence
+
+- Lao Zhou knife used where:
+- XiaoLin material/story method used where:
+- What still did not feel enough like Xixi:
+
 ## Where It Should Update The Repo
 
 - sentence-bank
@@ -38,6 +44,8 @@ Use this template whenever a new real piece deserves to be fed back into the rep
 - before-after-pack
 - case-library
 - platform-playbooks
+- laozhou-engine
+- xiaolin-materials
 - other:
 
 ## Notes

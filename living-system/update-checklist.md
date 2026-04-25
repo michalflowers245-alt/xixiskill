@@ -19,6 +19,8 @@ If fewer than 4 answers are yes, do not ingest it yet.
 - Did I extract any new title pattern?
 - Did I extract the return-to-reader move?
 - Did I extract the closing pressure line?
+- Did I note whether Lao Zhou's knife improved the structure?
+- Did I note whether XiaoLin-style material improved the explanation?
 
 ## Placement Checklist
 
@@ -27,6 +29,8 @@ If fewer than 4 answers are yes, do not ingest it yet.
 - Should this add lines to `sentence-bank.md`?
 - Should this enrich `voice-corpus.md`?
 - Should this adjust a format in `platform-playbooks.md`?
+- Should this refine `laozhou-engine.md`?
+- Should this refine `xiaolin-materials.md`?
 
 ## Final Check
 

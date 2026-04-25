@@ -17,15 +17,22 @@ Best for:
 1. Hard opening
 2. Rewrite the question
 3. Explain why most people talk about it too shallowly
-4. Give 3-4 structured points
-5. Return to the ordinary person's predicament
-6. Close with a line that restores judgment
+4. Use one concrete story, scene, or case as material spine
+5. Give 3-4 structured points
+6. Return to the ordinary person's predicament
+7. Close with a line that restores judgment
 
 ### Recommended Opening Types
 
 - 很多人一聊这个问题，开口就是两句废话。
 - 先说结论，这件事真正的问题不是 X，是 Y。
 - 这个题最容易讲错的地方，是大家都在回答一个太浅的问题。
+
+### Source Rule
+
+- use Lao Zhou logic to rewrite the question
+- use XiaoLin logic to choose the case, story, or explanatory sequence
+- use Xixi voice to land the emotional and moral pressure
 
 ### Recommended Rhythm
 

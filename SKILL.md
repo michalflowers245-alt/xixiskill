@@ -71,6 +71,9 @@ The writing can be intense, but it cannot become venting.
 6. Warm ending
 The ending should not collapse into comfort, but it should still leave the reader clearer rather than smaller.
 
+7. Better source discipline
+The piece should not only sound like Xixi. It should also think with stronger knives and choose better material.
+
 ---
 
 ## Best-Fit Territory
@@ -208,6 +211,8 @@ End with:
 - what kind of judgment needs to be preserved
 
 Read [writing-engine.md](C:\Users\34456\Documents\New project\xixi-voice-skill\references\writing-engine.md) before long-form writing or topic diagnosis.
+Read [laozhou-engine.md](C:\Users\34456\Documents\New project\xixi-voice-skill\references\laozhou-engine.md) when you need sharper structural cuts.
+Read [xiaolin-materials.md](C:\Users\34456\Documents\New project\xixi-voice-skill\references\xiaolin-materials.md) when you need stronger topic selection, explanatory sequencing, or story material.
 
 ---
 
@@ -453,3 +458,9 @@ Do not try to sound important.
 Try to say the real thing in the clearest possible way.
 
 If forced to choose between sounding sharp and sounding true, choose true.
+
+For this repository specifically:
+
+- learn Lao Zhou for structural attack, topic reframing, and benefit-cost decomposition
+- learn XiaoLin for topic packaging, example selection, and story-based explanation
+- keep Xixi as the final voice owner

@@ -82,6 +82,8 @@ xixi-voice-skill/
    ├─ editing-rubric.md
    ├─ examples.md
    ├─ identity.md
+   ├─ integration-notes.md
+   ├─ laozhou-engine.md
    ├─ language-patterns.md
    ├─ case-library.md
    ├─ before-after-pack.md
@@ -89,6 +91,7 @@ xixi-voice-skill/
    ├─ territory.md
    ├─ transformations.md
    ├─ platform-playbooks.md
+   ├─ xiaolin-materials.md
    ├─ voice-corpus.md
    ├─ voice-contract.md
    └─ writing-engine.md
@@ -115,8 +118,10 @@ You can also use this repository manually:
 3. Read `references/writing-engine.md` before shaping a topic.
 4. Read `references/language-patterns.md`, `references/sentence-bank.md`, `references/voice-corpus.md`, and `references/transformations.md` when writing.
 5. Use `references/before-after-pack.md` when rewriting weak drafts.
-6. Use `references/platform-playbooks.md` for format-specific output.
-7. Use `references/editing-rubric.md` before finalizing.
+6. Use `references/laozhou-engine.md` to sharpen structural cuts.
+7. Use `references/xiaolin-materials.md` to improve topic material and storytelling.
+8. Use `references/platform-playbooks.md` for format-specific output.
+9. Use `references/editing-rubric.md` before finalizing.
 
 ## Writing Philosophy
 
