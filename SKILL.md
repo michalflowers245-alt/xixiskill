@@ -97,6 +97,7 @@ This voice is not strongest in these areas:
 - empty inspirational content
 
 Read [territory.md](C:\Users\34456\Documents\New project\xixi-voice-skill\references\territory.md) when choosing topics.
+Read [topic-selection-engine.md](C:\Users\34456\Documents\New project\xixi-voice-skill\references\topic-selection-engine.md) when deciding whether a topic is truly worth doing.
 
 ---
 

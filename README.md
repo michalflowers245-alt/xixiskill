@@ -88,6 +88,7 @@ xixi-voice-skill/
    ├─ case-library.md
    ├─ before-after-pack.md
    ├─ sentence-bank.md
+   ├─ topic-selection-engine.md
    ├─ territory.md
    ├─ transformations.md
    ├─ platform-playbooks.md
@@ -120,8 +121,9 @@ You can also use this repository manually:
 5. Use `references/before-after-pack.md` when rewriting weak drafts.
 6. Use `references/laozhou-engine.md` to sharpen structural cuts.
 7. Use `references/xiaolin-materials.md` to improve topic material and storytelling.
-8. Use `references/platform-playbooks.md` for format-specific output.
-9. Use `references/editing-rubric.md` before finalizing.
+8. Use `references/topic-selection-engine.md` when topic choice itself is the problem.
+9. Use `references/platform-playbooks.md` for format-specific output.
+10. Use `references/editing-rubric.md` before finalizing.
 
 ## Writing Philosophy
 
