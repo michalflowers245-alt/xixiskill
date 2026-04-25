@@ -75,10 +75,12 @@ xixi-voice-skill/
    ├─ identity.md
    ├─ language-patterns.md
    ├─ case-library.md
+   ├─ before-after-pack.md
    ├─ sentence-bank.md
    ├─ territory.md
    ├─ transformations.md
    ├─ platform-playbooks.md
+   ├─ voice-corpus.md
    ├─ voice-contract.md
    └─ writing-engine.md
 ```
@@ -102,9 +104,10 @@ You can also use this repository manually:
 1. Read `SKILL.md` for the core system.
 2. Read `references/identity.md` to understand who Xixi is.
 3. Read `references/writing-engine.md` before shaping a topic.
-4. Read `references/language-patterns.md`, `references/sentence-bank.md`, and `references/transformations.md` when writing.
-5. Use `references/platform-playbooks.md` for format-specific output.
-6. Use `references/editing-rubric.md` before finalizing.
+4. Read `references/language-patterns.md`, `references/sentence-bank.md`, `references/voice-corpus.md`, and `references/transformations.md` when writing.
+5. Use `references/before-after-pack.md` when rewriting weak drafts.
+6. Use `references/platform-playbooks.md` for format-specific output.
+7. Use `references/editing-rubric.md` before finalizing.
 
 ## Writing Philosophy
 
@@ -142,6 +145,8 @@ Current version:
 - transformation patterns
 - platform playbooks
 - case library
+- voice corpus
+- before/after rewrite pack
 
 This repository can still be improved by adding:
 

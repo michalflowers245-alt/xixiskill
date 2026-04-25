@@ -439,6 +439,8 @@ Load only the files needed for the task:
 - [transformations.md](C:\Users\34456\Documents\New project\xixi-voice-skill\references\transformations.md): generic-to-Xixi rewrites
 - [platform-playbooks.md](C:\Users\34456\Documents\New project\xixi-voice-skill\references\platform-playbooks.md): short video, article, and topic-diagnosis templates
 - [case-library.md](C:\Users\34456\Documents\New project\xixi-voice-skill\references\case-library.md): deeper topic-specific examples extracted from source material
+- [voice-corpus.md](C:\Users\34456\Documents\New project\xixi-voice-skill\references\voice-corpus.md): higher-density source-style passages and signature phrasing clusters
+- [before-after-pack.md](C:\Users\34456\Documents\New project\xixi-voice-skill\references\before-after-pack.md): extended rewrite samples from flat copy into Xixi-style copy
 
 ---
 
