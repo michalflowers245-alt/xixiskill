@@ -435,6 +435,10 @@ Load only the files needed for the task:
 - [anti-patterns.md](C:\Users\34456\Documents\New project\xixi-voice-skill\references\anti-patterns.md): common failure modes
 - [editing-rubric.md](C:\Users\34456\Documents\New project\xixi-voice-skill\references\editing-rubric.md): final quality bar
 - [examples.md](C:\Users\34456\Documents\New project\xixi-voice-skill\references\examples.md): representative examples and before/after transformations
+- [sentence-bank.md](C:\Users\34456\Documents\New project\xixi-voice-skill\references\sentence-bank.md): reusable sentence patterns close to Xixi's natural mode
+- [transformations.md](C:\Users\34456\Documents\New project\xixi-voice-skill\references\transformations.md): generic-to-Xixi rewrites
+- [platform-playbooks.md](C:\Users\34456\Documents\New project\xixi-voice-skill\references\platform-playbooks.md): short video, article, and topic-diagnosis templates
+- [case-library.md](C:\Users\34456\Documents\New project\xixi-voice-skill\references\case-library.md): deeper topic-specific examples extracted from source material
 
 ---
 
